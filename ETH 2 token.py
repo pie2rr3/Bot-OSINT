@@ -10,7 +10,7 @@ endBlock2 = '16765783' # numéro de bloc de fin de la plage horaire pour le deux
 
 
 apiUrl = 'https://api.etherscan.io/api'
-apiKey = 'N3PJ8DDIV9DJMHPGDIEEV5ZGK2KBPUBHVJ'
+apiKey = 'apikey'
 
 walletFile = 'wallet.txt'
 
