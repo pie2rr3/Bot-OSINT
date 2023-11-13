@@ -10,7 +10,7 @@ endBlock2 = '67865385' # numéro de bloc de fin de la plage horaire pour le deux
 
 
 apiUrl = 'https://api.arbiscan.io/api'
-apiKey = 'IRFAIKYWS5CIJVS6SH9Z3S998VY6KCEGIP'
+apiKey = 'apikey'
 
 walletFile = 'wallet.txt'
 
