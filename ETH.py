@@ -12,7 +12,7 @@ startBlock3 = '16751348' # numéro de bloc de début de la plage horaire pour le
 endBlock3 = '16765853' # numéro de bloc de fin de la plage horaire pour le troisième token
 
 apiUrl = 'https://api.etherscan.io/api'
-apiKey = 'N3PJ8DDIV9DJMHPGDIEEV5ZGK2KBPUBHVJ'
+apiKey = 'apikey'
 
 walletFile = 'wallet.txt'
 
